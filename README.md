@@ -20,6 +20,7 @@
 | **ClashX** | ![Static](https://img.shields.io/badge/v1.118.0-lightgrey) | ![Static](https://img.shields.io/badge/已停更-lightgrey) | ❌ | ✅ | ❌ | ❌ | [备份](https://github.com/clash-download/ClashX) | [高速下载](https://clash.download/clashx) |
 | **ClashX Pro** | ![Static](https://img.shields.io/badge/v1.118.1-lightgrey) | ![Static](https://img.shields.io/badge/已停更-lightgrey) | ❌ | ✅ | ❌ | ❌ | [备份](https://github.com/clash-download/ClashX-Pro) | [高速下载](https://clash.download/clashx) |
 | **Clash Verge** (旧) | ![Static](https://img.shields.io/badge/v1.3.8-lightgrey) | ![Static](https://img.shields.io/badge/已停更-lightgrey) | ✅ | ✅ | ❌ | ❌ | [备份](https://github.com/zzzgydi/clash-verge/releases) | [高速下载](https://clash.download/clash-verge) |
+| **Nyanpasu** | ![Ver](https://img.shields.io/github/v/release/libnyanpasu/clash-nyanpasu?label=&color=lightgrey) | ![Date](https://img.shields.io/endpoint?url=https://githubdate.bcdyf49t45.workers.dev/libnyanpasu/clash-nyanpasu&label=) | ✅ | ✅ | ❌ | ✅ | [官方](https://github.com/LibNyanpasu/ClashNyanpasu)
 
 
 ## 如何选择合适的客户端？
@@ -116,4 +117,4 @@
 - ClashN 下载地址：https://github.com/2dust/clashN/releases
 - ClashN 使用教程：https://github.com/clashbk/clash/wiki/clashn
 
-| **Nyanpasu** | ![Ver](https://img.shields.io/github/v/release/libnyanpasu/clash-nyanpasu?label=&color=lightgrey) | ![Date](https://img.shields.io/endpoint?url=https://githubdate.bcdyf49t45.workers.dev/libnyanpasu/clash-nyanpasu&label=) | ✅ | ✅ | ❌ | ✅ | [官方](https://github.com/LibNyanpasu/ClashNyanpasu)
+
